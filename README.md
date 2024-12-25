@@ -5,14 +5,15 @@
 We are **SOFTLEO LLC**, a leading technology company based in Bothell, WA, USA. Our mission is to drive innovation and deliver top-notch solutions in software development, artificial intelligence, and cybersecurity.
 
 ### About Us
-🔭 We are currently working on various projects that showcase our expertise in **AI, ML, data science, and web development**.
-🌱 We are continuously learning and integrating advanced concepts in machine learning and cloud computing.
-👯 We are looking to collaborate on **innovative tech projects and hackathons**.
-🤔 We are seeking partnerships to explore new AI techniques and their applications.
-💬 Ask us about our journey in tech, our projects, or anything related to AI and software development.
-📫 How to reach us: contact@softleo.com
-😄 Pronouns: We/Us
-⚡ Fun fact: Our team is also passionate about photography and enjoys capturing moments through the lens.
+
+- 🔭 We are currently working on various projects that showcase our expertise in **AI, ML, data science, and web development**.
+- 🌱 We are continuously learning and integrating advanced concepts in machine learning and cloud computing.
+- 👯 We are looking to collaborate on **innovative tech projects and hackathons**.
+- 🤔 We are seeking partnerships to explore new AI techniques and their applications.
+- 💬 Ask us about our journey in tech, our projects, or anything related to AI and software development.
+- 📫 How to reach us: contact@softleo.com
+- 😄 Pronouns: We/Us
+- ⚡ Fun fact: Our team is also passionate about photography and enjoys capturing moments through the lens.
 
 ### Languages and Tools:
 
